@@ -1,4 +1,4 @@
-## 1. Чтение реестра Windows (основной метод)
+## 1. Чтение реестра Windows 
 
 ```python
 import winreg
