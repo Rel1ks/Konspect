@@ -11,10 +11,14 @@
             "id": "fd4ad8252db16397",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Коды/LeetCode/LeetCode. 3. Longest Substring Without Repeating Characters.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "LeetCode. 3. Longest Substring Without Repeating Characters"
             }
           }
         ]
@@ -176,8 +180,19 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5311e3de0ad5b22b",
+  "active": "fd4ad8252db16397",
   "lastOpenFiles": [
+    "Коды/LeetCode/LeetCode задача 21.md",
+    "Коды/LeetCode/LeetCode 14.11 Задача 1 и 2.md",
+    "Коды/LeetCode/LeetCode (квесты) Вопрос 3. Палиндром номер.md",
+    "Коды/LeetCode/LeetCode (квесты) Вопрос 2. Найти опорное целое число.md",
+    "Коды/LeetCode/Leetcode (Квесты) Вопрос 1. Можно делать арифметическую прогрессию по последовательности.md",
+    "Коды/LeetCode/B2. (Find the Pivot Integer) опорное целое число.md",
+    "Коды/LeetCode/Leetcode (70).md",
+    "Коды/LeetCode/LeetCode 69.md",
+    "Коды/LeetCode/LeetCode (question).md",
+    "Коды/LeetCode/LeetCode. 3. Longest Substring Without Repeating Characters.md",
+    "Коды/LeetCode/Leetcode (69).md",
     "Конфигурация Windows 10/Утилита NET USER.md",
     "рефлексия/мини рефлексия.md",
     "Без названия.md",
@@ -208,20 +223,9 @@
     "ОИТ/Основы Linux.md",
     "ОИТ/Операционные системы.md",
     "ОИТ/Настройка рабочего пространства.md",
-    "ОИТ/Информационное право и информационная безопасность.md",
-    "ОИТ/Запуск windows 1.0.md",
-    "ОИТ/Виртуализация Android.md",
-    "ОИТ/IT - Профессии в России.md",
     "ОИТ",
-    "Люди/Эндрю Таненбаум.md",
-    "Люди/Петер Наур.md",
-    "Люди/Линус Бенедикт Торвальдс.md",
-    "Люди/Джон Бэкус и Форма Бэкуса.md",
-    "Люди/Алан Тьюринг.md",
     "Люди",
     "Конфигурация Windows 10",
-    "Информатика/Элементы комбинаторики теории множеств и математическая логики.md",
-    "Информатика/Формула Бэкуса - наука.md",
     "Информатика",
     "Введение в специальность",
     "Введение в Python",
