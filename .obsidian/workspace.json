@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конфигурация Windows 10/DISKPART.md",
+                "file": "Конфигурация Windows 10/DISKPART ПРАКТИКА.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISKPART"
+              "title": "DISKPART ПРАКТИКА"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "d0f245963352560b",
   "lastOpenFiles": [
-    "MBR.md",
     "Конфигурация Windows 10/DISKPART.md",
+    "Конфигурация Windows 10/DISKPART ПРАКТИКА.md",
+    "MBR.md",
     "Конфигурация Windows 10/Утилита NET USER.md",
     "1.md",
     "Коды/LeetCode/LeetCode. 3. Longest Substring Without Repeating Characters.md",
@@ -220,7 +221,6 @@
     "Фотки",
     "Результаты теста/Тест 2.md",
     "Результаты теста/Тест 1.md",
-    "Результаты теста/скорость печати.md",
     "Результаты теста",
     "ОИТ/Создание виртуальной машины в virtual box",
     "ОИТ/Руководство по сборке ПК.canvas",
