@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a29ff5ad015ffa27",
+        "id": "393f13b8ae07ed1b",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f245963352560b",
+            "id": "4768948efde3b790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конфигурация Windows 10/DISKPART ПРАКТИКА.md",
+                "file": "Конфигурация Windows 10/MBR и GPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISKPART ПРАКТИКА"
+              "title": "MBR и GPT"
             }
           }
         ]
@@ -180,10 +180,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0f245963352560b",
+  "active": "4768948efde3b790",
   "lastOpenFiles": [
-    "Конфигурация Windows 10/DISKPART.md",
+    "14551123012025_08fda0244b5397e030ee401fd2bea5b24f78a72b.jpg",
+    "14550623012025_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg",
+    "Конфигурация Windows 10/MBR и GPT.md",
     "Конфигурация Windows 10/DISKPART ПРАКТИКА.md",
+    "Конфигурация Windows 10/DISKPART.md",
     "MBR.md",
     "Конфигурация Windows 10/Утилита NET USER.md",
     "1.md",
@@ -216,11 +219,7 @@
     "Фотки/Pasted image 20251107134459.png",
     "Фотки/Pasted image 20251107134059.png",
     "Фотки/Pasted image 20251107093445.png",
-    "Фотки/Pasted image 20251107093302.png",
-    "Фотки/Pasted image 20251107092549.png",
     "Фотки",
-    "Результаты теста/Тест 2.md",
-    "Результаты теста/Тест 1.md",
     "Результаты теста",
     "ОИТ/Создание виртуальной машины в virtual box",
     "ОИТ/Руководство по сборке ПК.canvas",
