@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конфигурация Windows 10/MBR и GPT.md",
+                "file": "рефлексия/05.03.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MBR и GPT"
+              "title": "05.03.26"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -171,20 +171,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "4768948efde3b790",
   "lastOpenFiles": [
+    "Конфигурация Windows 10/MBR и GPT.md",
+    "рефлексия/05.03.26.md",
     "14551123012025_08fda0244b5397e030ee401fd2bea5b24f78a72b.jpg",
     "14550623012025_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg",
-    "Конфигурация Windows 10/MBR и GPT.md",
     "Конфигурация Windows 10/DISKPART ПРАКТИКА.md",
     "Конфигурация Windows 10/DISKPART.md",
     "MBR.md",
