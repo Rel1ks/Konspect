@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конфигурация Windows 10/Практика использования DISKPART.md",
+                "file": "Конфигурация Windows 10/Создание .bat-файла..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика использования DISKPART"
+              "title": "Создание .bat-файла."
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Компьютер",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,9 @@
   },
   "active": "4768948efde3b790",
   "lastOpenFiles": [
-    "Конфигурация Windows 10/WinGet.md",
     "Конфигурация Windows 10/Практика использования DISKPART.md",
+    "Конфигурация Windows 10/Создание .bat-файла..md",
+    "Конфигурация Windows 10/WinGet.md",
     "рефлексия/мини рефлексия.md",
     "рефлексия/05.03.26.md",
     "рефлексия/12.md",
@@ -214,7 +214,6 @@
     "Коды/LeetCode/Leetcode (70).md",
     "Коды/LeetCode/LeetCode 69.md",
     "Коды/LeetCode/LeetCode (question).md",
-    "Коды/LeetCode/Leetcode (69).md",
     "рефлексия",
     "Фотки/Снимок2.png",
     "Фотки/Снимок.png",
