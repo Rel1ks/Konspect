@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конфигурация Windows 10/Создание .bat-файла..md",
+                "file": "Конфигурация Windows 10/Практика использования DISKPART..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Создание .bat-файла."
+              "title": "Практика использования DISKPART."
             }
           }
         ]
@@ -182,13 +182,14 @@
   },
   "active": "4768948efde3b790",
   "lastOpenFiles": [
-    "Конфигурация Windows 10/Практика использования DISKPART.md",
+    "Конфигурация Windows 10/WinGet..md",
+    "Конфигурация Windows 10/Без названия.md",
+    "Конфигурация Windows 10/MBR и GPT.md",
     "Конфигурация Windows 10/Создание .bat-файла..md",
-    "Конфигурация Windows 10/WinGet.md",
+    "Конфигурация Windows 10/Практика использования DISKPART..md",
     "рефлексия/мини рефлексия.md",
     "рефлексия/05.03.26.md",
     "рефлексия/12.md",
-    "Конфигурация Windows 10/MBR и GPT.md",
     "14551123012025_08fda0244b5397e030ee401fd2bea5b24f78a72b.jpg",
     "14550623012025_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg",
     "Конфигурация Windows 10/DISKPART ПРАКТИКА.md",
@@ -213,7 +214,6 @@
     "Коды/LeetCode/B2. (Find the Pivot Integer) опорное целое число.md",
     "Коды/LeetCode/Leetcode (70).md",
     "Коды/LeetCode/LeetCode 69.md",
-    "Коды/LeetCode/LeetCode (question).md",
     "рефлексия",
     "Фотки/Снимок2.png",
     "Фотки/Снимок.png",
