@@ -1,0 +1,231 @@
+Циклы используются для повторного выполнения кода: либо по элементам коллекции, либо пока выполняется условие.
+
+## Виды циклов
+
+### for — перебор последовательностей
+
+Используется для итерации по итерируемым объектам (списки, строки, диапазоны, генераторы).
+
+```python
+for i in range(5):
+    print(i)
+```
+
+```python
+for char in "hello":
+    print(char)
+```
+
+***
+
+### while — цикл с условием
+
+Выполняется, пока условие истинно.
+
+```python
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+```
+
+***
+
+## Управление выполнением
+
+### break
+
+Прерывает выполнение цикла.
+
+```python
+for i in range(10):
+    if i == 5:
+        break
+```
+
+***
+
+### continue
+
+Переходит к следующей итерации.
+
+```python
+for i in range(5):
+    if i == 2:
+        continue
+    print(i)
+```
+
+***
+
+### else в циклах
+
+Блок `else` выполняется, если цикл завершился без `break`.
+
+```python
+for i in range(3):
+    print(i)
+else:
+    print("done")
+```
+
+***
+
+## Comprehensions
+
+Компактный способ создания коллекций.
+
+### list comprehension
+
+```python
+squares = [x**2 for x in range(5)]
+```
+
+```python
+even = [x for x in range(10) if x % 2 == 0]
+```
+
+***
+
+### dict comprehension
+
+```python
+d = {x: x**2 for x in range(5)}
+```
+
+***
+
+### set comprehension
+
+```python
+s = {x % 3 for x in range(10)}
+```
+
+***
+
+## Генераторы
+
+Генераторы позволяют итерироваться по данным без создания полной коллекции в памяти.
+
+```python
+gen = (x**2 for x in range(1000000))
+```
+
+```python
+for value in gen:
+    print(value)
+```
+
+***
+
+## Итераторы
+
+Итератор — объект, реализующий методы `__iter__()` и `__next__()`.
+
+```python
+class Counter:
+    def __init__(self, max_val):
+        self.max = max_val
+        self.current = 0
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self.current >= self.max:
+            raise StopIteration
+        self.current += 1
+        return self.current
+```
+
+***
+
+## Функции iter и next
+
+```python
+lst = [1, 2, 3]
+it = iter(lst)
+
+print(next(it))
+print(next(it))
+```
+
+***
+
+## Модуль itertools
+
+Предоставляет инструменты для эффективной работы с итерациями.
+
+```python
+import itertools
+
+for pair in itertools.product([1, 2], ['a', 'b']):
+    print(pair)
+```
+
+Основные функции:
+- product — декартово произведение
+- permutations — перестановки
+- combinations — сочетания
+- cycle — бесконечный цикл
+- islice — срез итератора
+
+***
+
+## Вложенные циклы
+
+```python
+for i in range(3):
+    for j in range(2):
+        print(i, j)
+```
+
+***
+
+## Асинхронные циклы
+
+```python
+async for item in async_generator():
+    print(item)
+```
+
+```python
+async def async_generator():
+    for i in range(3):
+        yield i
+```
+
+***
+
+## Практический пример
+
+```python
+commands = {
+    "hello": lambda: print("hi"),
+    "exit": lambda: exit()
+}
+
+while True:
+    cmd = input(">> ").strip()
+
+    if cmd in commands:
+        commands[cmd]()
+    else:
+        print("unknown command")
+```
+
+***
+
+## Рекомендации
+
+- Использовать `for`, когда есть итерируемая структура  
+- Использовать `while` для условий, изменяющихся во времени  
+- Применять генераторы для экономии памяти  
+- Избегать лишних вложенных циклов  
+- Выносить неизменяемые вычисления за пределы цикла  
+
+:::
+
+***
+
+Хочешь, оформлю следующую заметку в таком же стиле про **итераторы, генераторы и yield с внутренностями CPython** или, например, **оптимизацию циклов (time complexity + profiling)**?
