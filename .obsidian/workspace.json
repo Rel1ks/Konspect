@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Generator Expressions.md",
+                "file": "Python/Форматирование кода/Black.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generator Expressions"
+              "title": "Black"
             }
           }
         ]
@@ -180,13 +180,27 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4768948efde3b790",
+  "active": "5311e3de0ad5b22b",
   "lastOpenFiles": [
+    "Python/Тестирование/pytest.md",
+    "Python/Тестирование/Doctest.md",
+    "Python/Тестирование/PyUnit — Unittest.md",
+    "Python/Тестирование/Tox.md",
+    "Python/Тестирование/Testing.md",
+    "Python/Тестирование",
+    "Python/Новая папка",
+    "Python/Обработка файлов в Python/Glob Module in Python.md",
+    "Python/Обработка файлов в Python/File Handling in Python.md",
+    "Python/Обработка файлов в Python",
+    "Python/Форматирование кода/Documentation/Sphinx.md",
+    "Python/Документация/Sphinx.md",
+    "Python/Документация",
+    "Python/Context Manager.md",
+    "Python/Generator Expressions.md",
     "Python/Окружающая среда/Pipenv.md",
     "Python/Окружающая среда/virtualenv.md",
     "Python/Окружающая среда/pyenv.md",
     "Python/Окружающая среда",
-    "Python/Новая папка",
     "Python/Конкуренция/Асинхронность.md",
     "Python/Конкуренция/Конкурентность.md",
     "Python/Конкуренция/Threading.md",
@@ -201,23 +215,9 @@
     "Python/Параллелизм",
     "Python/Конкуретность/Threading.md",
     "Python/Конкуретность/Асинхронность.md",
-    "Python/Конкуретность/GIL.md",
-    "Python/Конкуретность/Конкурентность.md",
-    "Python/Конкуретность/Multiprocessing.md",
     "Python/Конкуретность",
-    "Python/Конкурентность/Конкурентность.md",
     "Python/Конкурентность",
-    "Python/Generator Expressions.md",
-    "Python/Фреймворки Python/синхронный + асинхронный/Flask.md",
-    "Python/Фреймворки Python/синхронный/Flask.md",
-    "Python/Фреймворки Python/синхронный + асинхронный/Django.md",
-    "Python/Фреймворки Python/синхронный + асинхронный/FastAPI.md",
-    "Python/Фреймворки Python/синхронный/Django.md",
-    "Python/Фреймворки Python/FastAPI.md",
     "Python/Фреймворки Python/синхронный + асинхронный",
-    "Python/Фреймворки Python/синхронный",
-    "Python/Фреймворки Python/асинхронный",
-    "Python/Фреймворки Python/Новая папка/синхронный + асинхронный",
     "Результаты теста/6434354543763.png",
     "14550623012025_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg",
     "14551123012025_08fda0244b5397e030ee401fd2bea5b24f78a72b.jpg",
