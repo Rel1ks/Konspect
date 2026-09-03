@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Форматирование кода/Black.md",
+                "file": "Информационные технологии/Понятие информации и ИТ. Устройства ввода и вывода. Smart-устройства. IoT..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Black"
+              "title": "Понятие информации и ИТ. Устройства ввода и вывода. Smart-устройства. IoT."
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -180,8 +182,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5311e3de0ad5b22b",
+  "active": "4768948efde3b790",
   "lastOpenFiles": [
+    "Информационные технологии/Понятие информации и IT. Устройства ввода и вывода. Smart-устройства. loT.md",
+    "Информационные технологии/Понятие информации и ИТ. Устройства ввода и вывода. Smart-устройства. IoT..md",
+    "Информационные технологии/LibreOffice",
+    "Python/Форматирование кода/Black.md",
     "Python/Тестирование/pytest.md",
     "Python/Тестирование/Doctest.md",
     "Python/Тестирование/PyUnit — Unittest.md",
@@ -211,13 +217,9 @@
     "Python/Параллелизм/Конкурентность.md",
     "Python/Параллелизм/Threading.md",
     "Python/Параллелизм/Multiprocessing.md",
-    "Python/Параллелизм/GIL.md",
     "Python/Параллелизм",
-    "Python/Конкуретность/Threading.md",
-    "Python/Конкуретность/Асинхронность.md",
     "Python/Конкуретность",
     "Python/Конкурентность",
-    "Python/Фреймворки Python/синхронный + асинхронный",
     "Результаты теста/6434354543763.png",
     "14550623012025_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg",
     "14551123012025_08fda0244b5397e030ee401fd2bea5b24f78a72b.jpg",
